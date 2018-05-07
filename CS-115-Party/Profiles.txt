@@ -1,0 +1,7 @@
+Jim,19,03,1994,Splot,Wales,Welsh,Sport;Food;
+Simoth,06,12,1981,Roath,Wales,Welsh,Lights;Wool;Other Moths;
+Antony,17,08,1985,Hilltown,Wales,Welsh,Leaves;Pathfinding,Autocracy;
+Catlin,26,08,1991,Splot,Wales,Welsh,Laps;Yarn;
+Boaris,27,04,1989,Rumny,Wales,Welsh,Truffles;Mud;Running;
+Alli Gator,11,04,1991,Splot,Wales,American,Swimming;Mammals;
+Simoth,06,12,1981,Roath,Wales,Welsh,Lights;Wool;Other Moths;
